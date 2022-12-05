@@ -10,7 +10,7 @@ import works.weave.socks.cart.cart.CartDAO;
 import works.weave.socks.cart.cart.CartResource;
 import works.weave.socks.cart.entities.Cart;
 
-
+// This is the main program for the Shopping Carts Application
 @RestController
 @RequestMapping(path = "/carts")
 public class CartsController {
